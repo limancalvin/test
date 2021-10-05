@@ -3,7 +3,7 @@ require 'util/connection.php';
 
 session_start();
 if (!isset($_SESSION['username'])) {
-    echo "<script>alert('Please log in')</script>";
+    echo "<script>alert('Please log iniiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii!!!!!!!!!')</script>";
     echo "<script>location.href='index.php'</script>";
 }
 $username = $_SESSION['username'];
